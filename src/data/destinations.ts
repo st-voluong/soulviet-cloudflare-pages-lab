@@ -20,7 +20,7 @@ export const destinations: Destination[] = [
     imageUrl:
       'https://images.unsplash.com/photo-1582774803540-8a703c87184d?auto=format&fit=crop&w=1200&q=80',
     tags: ['Heritage', 'Cycling', 'Craft'],
-    rating: 4.9,
+    rating: 5.0,
     duration: '2-3 days',
   },
   {
