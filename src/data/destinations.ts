@@ -18,7 +18,7 @@ export const destinations: Destination[] = [
     description:
       'Lantern-lit alleys, old merchant houses, cycling routes, and slow mornings beside the Thu Bon River.',
     imageUrl:
-      'https://images.unsplash.com/photo-1559592413-7cec4d0cae2b?auto=format&fit=crop&w=1200&q=80',
+      'https://images.unsplash.com/photo-1582774803540-8a703c87184d?auto=format&fit=crop&w=1200&q=80',
     tags: ['Heritage', 'Cycling', 'Craft'],
     rating: 4.9,
     duration: '2-3 days',
